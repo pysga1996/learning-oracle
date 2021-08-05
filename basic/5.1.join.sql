@@ -1,0 +1,11 @@
+-- Đặt ra một tình huống bạn xem thông tin một nhân viên trong bảng EMPLOYEE.
+-- Bạn có thể thấy nhân viên biết ID phòng ban của nhân viên này.
+-- Nhưng đó là một con số vô nghĩa. Muốn biết tên phòng ban, bạn phải tra cứu sang bảng DEPARTMENT.
+-- Việc nối 2 bảng đó với nhau để có một thông tin đầy đủ được gọi là JOIN.
+
+-- Có 4 hình thức Join:
+-- INNER JOIN   (JOIN)
+-- LEFT OUTER JOIN  (LEFT JOIN)
+-- RIGHT OUTER JOIN (RIGHT JOIN)
+-- FULL OUTER JOIN    (OUTER JOIN)
+-- CROSS JOIN
